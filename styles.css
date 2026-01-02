@@ -1,0 +1,16 @@
+.container {
+    /*background-color: grey;*/
+}
+
+.row {
+    /*background-color: red;*/
+    display: flex; 
+}
+
+.cell {
+    /*background-color: aqua;*/
+    width: 10px;
+    height: auto;
+    flex: 1 1 auto; 
+    aspect-ratio: 1 / 1; 
+}
