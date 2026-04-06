@@ -1,8 +1,8 @@
 # Tiêu đề (tuỳ chọn)
 
-![Mô tả ảnh](https://via.placeholder.com/400)
+![Mô tả ảnh](./demo_01.png)
 
 ## Description
-Đây là một đoạn văn mô tả nội dung của bạn. Bạn có thể viết bất kỳ thông tin gì ở đây để giải thích về ảnh hoặc dự án.
+Sử dụng trên máy tính, nhấn chuột để vẽ nội dung, chỉ có một màu đen
 
 [👉 Bấm vào đây](https://example.com)
